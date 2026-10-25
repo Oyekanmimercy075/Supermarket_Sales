@@ -1,17 +1,17 @@
-Supermarket Sales Analysis Using Microsoft Excel
-Project Overview
+# Supermarket Sales Analysis Using Microsoft Excel
+# Project Overview
 This project focuses on analyzing supermarket sales data using Microsoft Excel to understand revenue patterns, transaction distribution, and sales performance across different years and locations.
 
 The project applies descriptive statistics, PivotTables, Excel formulas, and regression analysis to transform raw sales data into meaningful information that can support business decision-making.
 
-Business Problem
+# Business Problem
 Supermarkets generate large amounts of transaction data, but raw data alone does not explain how sales are performing, how transaction values vary, or which locations contribute more revenue.
 
 Without proper analysis, management may struggle to identify sales patterns, investigate unusual transactions, and make informed decisions.
 
 This project demonstrates how Excel can be used to explore these questions and extract useful business insights from sales data.
 
-Project Objectives
+# Project Objectives
 Analyze revenue patterns across different years.
 Calculate typical transaction revenue using measures of central tendency.
 Measure variations in transaction revenue.
@@ -19,17 +19,19 @@ Identify minimum, maximum, and percentile values.
 Compare revenue across countries, cities, and years.
 Explore relationships in the data using regression analysis.
 Demonstrate how statistical analysis supports business decisions.
-Tools Used
+
+# Tools Used
 Microsoft Excel
 Excel formulas and functions
 PivotTables and PivotCharts
 Descriptive statistics
 Regression analysis
-Analysis Performed
+
+# Analysis Performed
 1. Measures of Central Tendency
 Mean, Median, and Mode
 
-These calculations help summarize transaction revenue and understand typical purchasing patterns.
+# These calculations help summarize transaction revenue and understand typical purchasing patterns.
 
 Mean: Calculates the average revenue per transaction.
 Median: Identifies the middle transaction revenue value and provides a measure less affected by extreme values.
@@ -73,7 +75,7 @@ Regression analysis is used to explore relationships between variables and asses
 
 Business value: It provides a framework for investigating potential relationships in sales data. Model significance and explanatory power must be evaluated before drawing conclusions or using the model for forecasting.
 
-Key Business Questions
+# Key Business Questions
 This project explores questions such as:
 
 What is the average revenue per transaction?
@@ -101,7 +103,6 @@ The broader objective is to turn raw data into meaningful information that suppo
 
 Repository Contents
 Supermarket_sales_PracticeProject_End - Copy.xlsx — Excel workbook containing the sales analysis, calculations, and statistical outputs.
-Author
-Oyekanmi Isaiah Mercy
-
-Aspiring Data Analyst | Business Analyst | 
+# Author
+# Oyekanmi Isaiah Mercy
+# Aspiring Data Analyst | Business Analyst | 
